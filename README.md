@@ -1,1 +1,2 @@
-# Website for Computer Maintenance Project "Kryptos"
+#Kryptos
+Website for Computer Maintenance Project 
