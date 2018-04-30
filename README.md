@@ -1,2 +1,1 @@
-# scaling-chainsaw
-Computer Maintenance
+# Website for Computer Maintenance Project "Kryptos"
